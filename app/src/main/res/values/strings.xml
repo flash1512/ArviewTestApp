@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ArviewTestApp</string>
+    <string name="channels_count">Кол-во каналов: %d</string>
+    <string name="viewers_count">Кол-во зрителей: %d</string>
+    <string name="review">Отзыв</string>
+</resources>
